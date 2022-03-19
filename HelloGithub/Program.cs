@@ -6,6 +6,8 @@ namespace HelloGithub
     {
         static void Main(string[] args)
         {
+            //alma
+            //körte
             Console.ReadLine();
         }
     }
